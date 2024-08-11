@@ -1,7 +1,8 @@
 # Cybersecurity Portfolio
 
 ## 🔍 The future is in my vision
-Objective 
+
+# Objective 
 I am a cybersecurity and machine learning engineer specializing in exploit development and threat detection. With a purple team mindset and red team aspirations, I integrate advanced machine learning techniques to amplify exploits and enhance detection mechanisms. In the ever-evolving field of cybersecurity, being a generalist allows me to stay ahead by quickly adapting to and learning trending technologies. With the vast amount of information and research available, I focus on building upon proven methodologies to drive innovation and effectiveness. My portfolio includes projects in penetration testing, red and purple team strategies, machine learning applications in penetration testing, exploit development, and network security. These projects showcase my commitment to mastering a wide array of skills necessary for tackling complex security challenges.
 
 ## 🛠️ Skills
