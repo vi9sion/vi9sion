@@ -21,7 +21,7 @@ I use a generalist approach in cybersecurity which allows me to swiftly adapt to
 ### 🛡️ TimeSheets Threat Model · Security Engineering
 - Collaborated with a fictional company to assess potential threats and recommend effective mitigations.
 - Developed strategies for implementing risk evaluation, conducting security reviews, and performing audits.
-🔗 [View Project](URL_HERE)
+🔗 [View Project](https://medium.com/@abdulrdione/timesheet-threat-model-1d80f59db13b)
 
 ---
 
